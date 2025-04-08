@@ -1,5 +1,3 @@
-//Make sure you attach a child component to the player and add a camera, position this camera however you like.
-//If you wanted to add a bit more realism, adjust the script to have it rotate a parent of the camera so it simulated the eye position.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
